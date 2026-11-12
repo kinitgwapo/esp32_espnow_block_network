@@ -1,5 +1,4 @@
 ## Personal Information
-
 <div align="center">
 
 | Item               | Details            |
@@ -11,7 +10,8 @@
 
 </div>
 
-## List of received broadcasted ESP32 boards
+## ESP32 MAC Addresses List
+The table below contains a list of names, and mac addresses that were broadcasted by the respective ESP32 boards.
 
 <div align="center">
 
@@ -37,6 +37,12 @@
 
 ## Serial Monitor Screenshot
 
+<p align="center">
+  
+<img width="957" height="660" alt="Restauro_Serial-Monitor" src="https://github.com/user-attachments/assets/6d868ce3-06a8-4e7c-9e04-e0e8e82a3902" />
+
+</p>
 
 ## 30-Second Serial Monitor Video
 
+https://github.com/user-attachments/assets/7f88d124-c40e-4e22-8859-4e18ba5ef270
